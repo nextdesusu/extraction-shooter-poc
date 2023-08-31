@@ -1,0 +1,10 @@
+[gd_scene format=3 uid="uid://14w6vrjfv7i5"]
+
+[node name="MainScene" type="Node2D"]
+
+[node name="HelloDanila" type="RichTextLabel" parent="."]
+offset_left = 455.0
+offset_top = 179.0
+offset_right = 696.0
+offset_bottom = 320.0
+text = "Данила здарова! В этом проекте будет делать top dawn недошутер в фентези сеттинге."
